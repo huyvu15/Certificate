@@ -6,7 +6,7 @@ At here have some top photo certificates
 
 ![Google data analytics](https://github.com/huyvu15/Certificate/blob/main/Google_data_analys.png)
 
-![Google Project Management](https://github.com/huyvu15/Certificate/blob/main/Google_Project_Management.png)
+![Google Project Management](https://github.com/huyvu15/Certificate/blob/main/photo/Google_Project%20_Management.png)
 
 ![Git and Ruby](https://github.com/huyvu15/Certificate/blob/main/Git_and_Ruby.jpg)
 
